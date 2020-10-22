@@ -2,4 +2,4 @@
 
 Hi people!
 
-Nikolay here, I'm making my first steps with JavaScript :)
+Nikolay here, I'm making my first steps in JavaScript :)
